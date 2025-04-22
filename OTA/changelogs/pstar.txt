@@ -1,0 +1,9 @@
+Highlights & Device Specific Changes:
+Build type: Stable/Monthly
+Device name: Edge 20 Pro
+Device codename: pstar
+Device maintainer: Gojo
+
+===== 22nd April 2025 =====
+* Initial Official Build
+* Switch to QCOM audio effects
